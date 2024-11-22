@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Jerusalem",
+      "country": "Palestine",
+      "emoji": "🇵🇸",
+      "date": "2027-11-21T12:00:00.000Z",
+      "notes": "A city rich in history and culture.",
+      "position": {
+        "lat": 31.7683,
+        "lng": 35.2137
+      },
+      "id": "12345678"
+    },
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "e596",
+      "cityName": "Gaza",
+      "country": "Palestine, State of",
+      "emoji": "🇵🇸",
+      "date": "2024-11-22T06:25:30.714Z",
+      "notes": "",
+      "position": {
+        "lat": "31.50948351057133",
+        "lng": "34.45587158203126"
+      }
+    },
+    {
+      "id": "03a1",
+      "cityName": "Algiers",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2024-11-22T06:28:29.978Z",
+      "notes": "test",
+      "position": {
+        "lat": "36.69485094156225",
+        "lng": "3.0761718750000004"
+      }
+    }
+  ]
+}
